@@ -435,7 +435,7 @@ h3 { color: var(--navy-900); margin-top: 10px; font-size: 1.16rem; letter-spacin
 .header-bar { display: flex; align-items: center; justify-content: space-between; gap: 28px; }
 .brand-logo { display: block; flex: 0 1 365px; }
 .brand-logo::before { display: none; }
-.brand-logo img { display: block; width: min(100%, 365px); height: 82px; object-fit: contain; object-position: left center; filter: invert(1); }
+.brand-logo img { display: block; width: min(100%, 365px); height: 82px; object-fit: contain; object-position: left center; }
 .header-bar .header-tagline { margin: 0; max-width: 620px; text-align: right; }
 
 .product-hero {
