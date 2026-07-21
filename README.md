@@ -2,6 +2,7 @@
 
 ## 2026-07-20 update
 
+- Added Local Boarding Application product information and screenshots on 2026-07-21.
 - Added sales, selection, configuration, and installation support for office IT and specialized operational equipment.
 - Added one-stop procurement messaging across the home, services, company, and contact pages.
 - Applied the new transparent company logo.

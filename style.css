@@ -290,6 +290,36 @@ main { padding: 68px 0 88px; }
   color: var(--navy-900);
   font-weight: 700;
 }
+.product-emphasis {
+  margin: 22px 0;
+  padding: 15px 18px;
+  border-left: 4px solid var(--blue-600);
+  border-radius: 0 12px 12px 0;
+  background: linear-gradient(90deg, rgba(8,117,209,.10), rgba(76,216,232,.05));
+  color: var(--navy-900);
+  font-weight: 750;
+}
+.use-case-strip {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 22px;
+  padding: 18px 22px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  background: rgba(255,255,255,.82);
+  box-shadow: var(--shadow-sm);
+}
+.use-case-strip strong { margin-right: 7px; color: var(--navy-900); }
+.use-case-strip span {
+  padding: 7px 12px;
+  border-radius: 999px;
+  background: rgba(8,117,209,.09);
+  color: var(--navy-800);
+  font-size: .86rem;
+  font-weight: 700;
+}
 
 section { margin-top: 68px; }
 h1.page-title, h2 { color: var(--navy-950); line-height: 1.3; }
