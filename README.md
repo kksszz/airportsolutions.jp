@@ -2,6 +2,8 @@
 
 ## 2026-07-20 update
 
+- Added sales, selection, configuration, and installation support for office IT and specialized operational equipment.
+- Added one-stop procurement messaging across the home, services, company, and contact pages.
 - Applied the new transparent company logo.
 - Added a product-focused home page.
 - Added product information and demo screenshots for AODB/FIDS, PRS, Digital Signage, and Offline Print.
