@@ -2,10 +2,14 @@
 
 ## 2026-07-20 update
 
+- Repositioned common-use check-in total solutions as the company's core business across the home, services, and company pages.
+- Replaced and expanded the Digital Signage gallery with five high-resolution images.
+- Enlarged the header logo while keeping the compact header height.
 - Changed the representative member name from Yasuko Tsukada to Yasuko Minemura.
 - Added in-app decision-rationale messaging for BCBP Inspector and tap/click image enlargement.
 - Replaced BCBP Inspector screenshots with the v0.2.7 interface and preserved their full aspect ratio.
 - Replaced the BCBP Inspector screenshots again with the revised v0.2.9 full-HD interface.
+- Replaced both BCBP Inspector screenshots with the latest rev4 images.
 - Added BCBP Inspector product information and Resolution 792 Matrix screenshots on 2026-07-22.
 - Fixed desktop hero-title wrapping and reordered products: Signage, Offline Print, Local Boarding, BCBP Inspector, AODB, FIDS, PRS.
 - Added Local Boarding Application product information and screenshots on 2026-07-21.
