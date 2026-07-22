@@ -554,7 +554,62 @@ h3 { color: var(--navy-900); margin-top: 10px; font-size: 1.16rem; letter-spacin
 .gallery-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 .gallery figure { margin: 0; overflow: hidden; background: #fff; border: 1px solid var(--line); border-radius: 15px; box-shadow: var(--shadow-sm); }
 .gallery img { display: block; width: 100%; aspect-ratio: 16/9; object-fit: cover; object-position: left top; }
+.bcbp-gallery img { aspect-ratio: auto; object-fit: contain; background: #eef3f7; }
 .gallery figcaption { padding: 10px 13px; color: var(--muted); font-size: .8rem; }
+.product-image img,
+.detail-media img,
+.gallery img {
+  cursor: zoom-in;
+  transition: filter .2s ease, transform .2s ease;
+}
+.product-image img:hover,
+.detail-media img:hover,
+.gallery img:hover { filter: brightness(.94); }
+.image-lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  padding: 28px;
+  background: rgba(2, 16, 31, .92);
+  backdrop-filter: blur(8px);
+}
+.image-lightbox.is-open { display: flex; }
+.image-lightbox-content {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: min(96vw, 1900px);
+  max-height: 94vh;
+}
+.image-lightbox-image {
+  display: block;
+  max-width: 100%;
+  max-height: calc(94vh - 54px);
+  object-fit: contain;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0 30px 90px rgba(0,0,0,.45);
+}
+.image-lightbox-caption { margin: 10px 50px 0; color: rgba(255,255,255,.82); text-align: center; }
+.image-lightbox-close {
+  position: fixed;
+  top: 16px;
+  right: 20px;
+  width: 46px;
+  height: 46px;
+  border: 1px solid rgba(255,255,255,.35);
+  border-radius: 50%;
+  background: rgba(4,25,47,.72);
+  color: #fff;
+  font-size: 1.8rem;
+  line-height: 1;
+  cursor: pointer;
+}
+body.lightbox-open { overflow: hidden; }
 
 .process { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 16px; }
 .process > div { padding: 24px; background: #fff; border: 1px solid var(--line); border-radius: var(--radius-sm); box-shadow: var(--shadow-sm); }
@@ -589,4 +644,6 @@ h3 { color: var(--navy-900); margin-top: 10px; font-size: 1.16rem; letter-spacin
   .hero-screen { transform: none; padding: 7px; border-radius: 14px; }
   .product-detail { gap: 25px; }
   .detail-media { padding: 7px; border-radius: 14px; }
+  .image-lightbox { padding: 12px; }
+  .image-lightbox-close { top: 8px; right: 8px; }
 }
