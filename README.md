@@ -2,6 +2,7 @@
 
 ## 2026-07-20 update
 
+- Added a custom common-use check-in counter hero image with correctly oriented agent-side equipment and no on-site personnel.
 - Repositioned common-use check-in total solutions as the company's core business across the home, services, and company pages.
 - Replaced and expanded the Digital Signage gallery with five high-resolution images.
 - Enlarged the header logo while keeping the compact header height.
