@@ -2,6 +2,7 @@
 
 ## 2026-07-20 update
 
+- Added company-logo home-screen icons for iOS and Android, browser favicons, and a web app manifest.
 - Added a custom common-use check-in counter hero image with correctly oriented agent-side equipment and no on-site personnel.
 - Repositioned common-use check-in total solutions as the company's core business across the home, services, and company pages.
 - Replaced and expanded the Digital Signage gallery with five high-resolution images.
