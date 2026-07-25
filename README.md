@@ -2,6 +2,8 @@
 
 ## 2026-07-20 update
 
+- Added the CUSS Platform as an in-development product and emphasized timely enhancements through in-house software development.
+- Removed public references to the AODB database implementation and changed the screenshot status to AODB ONLINE.
 - Added company-logo home-screen icons for iOS and Android, browser favicons, and a web app manifest.
 - Added a custom common-use check-in counter hero image with correctly oriented agent-side equipment and no on-site personnel.
 - Repositioned common-use check-in total solutions as the company's core business across the home, services, and company pages.
