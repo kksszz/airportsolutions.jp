@@ -1,7 +1,15 @@
 # Airport Solutions.jp Website
 
+## 2026-07-26 update
+
+- Added the common-use check-in system as the primary solution at the top of the Products page, describing a CUTE/CUPPS-equivalent environment covering hardware, software, airline connectivity, implementation, and operational support.
+- Replaced the CUSS text diagram with the approved three-kiosk image featuring matte-black enclosures, square screens, and an airline-selection interface.
+- Replaced the repeated Digital Signage controller image on the Home and Products pages with the approved oblique airport check-in-counter overhead-signage visualization.
+- Kept the Signage Controller screen in the detailed product gallery and retained tap/click image enlargement.
+
 ## 2026-07-20 update
 
+- Fixed the mobile hero heading to preserve the intended two-line layout without isolating Japanese particles.
 - Added the CUSS Platform as an in-development product and emphasized timely enhancements through in-house software development.
 - Removed public references to the AODB database implementation and changed the screenshot status to AODB ONLINE.
 - Added company-logo home-screen icons for iOS and Android, browser favicons, and a web app manifest.
