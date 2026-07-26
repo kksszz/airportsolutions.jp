@@ -565,6 +565,7 @@ h3 { color: var(--navy-900); margin-top: 10px; font-size: 1.16rem; letter-spacin
 .gallery-4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
 .gallery-3 { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 .gallery-2 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.gallery-single { grid-template-columns: minmax(0, 1fr); max-width: 920px; margin-inline: auto; }
 .gallery figure { margin: 0; overflow: hidden; background: #fff; border: 1px solid var(--line); border-radius: 15px; box-shadow: var(--shadow-sm); }
 .gallery img { display: block; width: 100%; aspect-ratio: 16/9; object-fit: cover; object-position: left top; }
 .bcbp-gallery img { aspect-ratio: auto; object-fit: contain; background: #eef3f7; }
