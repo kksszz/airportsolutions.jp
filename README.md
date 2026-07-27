@@ -1,5 +1,12 @@
 # Airport Solutions.jp Website
 
+## 2026-07-28 update
+
+- Updated the CUSS product positioning for CUSS 1.5 support during the industry transition to CUSS 2.
+- Added the policy of maintaining existing CUSS 1.5 environments through in-house development while supporting a phased CUSS 2 migration at the appropriate time for each customer.
+- Added an official IATA CUSS 2 Migration Plan reference and updated the Home and News pages.
+- Restored the custom `404.html` page and retained Cloudflare Web Analytics across all pages.
+
 ## 2026-07-26 update
 
 - Added the common-use check-in system as the primary solution at the top of the Products page, describing a CUTE/CUPPS-equivalent environment covering hardware, software, airline connectivity, implementation, and operational support.
