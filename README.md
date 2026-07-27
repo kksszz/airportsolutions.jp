@@ -6,6 +6,7 @@
 - Added the policy of maintaining existing CUSS 1.5 environments through in-house development while supporting a phased CUSS 2 migration at the appropriate time for each customer.
 - Added an official IATA CUSS 2 Migration Plan reference and updated the Home and News pages.
 - Restored the custom `404.html` page and retained Cloudflare Web Analytics across all pages.
+- Replaced the AODB main screenshot with an airport operations-hub visualization showing AODB, terminal endpoint monitoring, FIDS, and PRS Supervisor integration; retained the actual AODB application screen in the product gallery.
 
 ## 2026-07-26 update
 
