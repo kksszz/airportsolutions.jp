@@ -27,6 +27,7 @@
 - Enlarged the header logo while keeping the compact header height.
 - Changed the representative member name from Yasuko Tsukada to Yasuko Minemura.
 - Added in-app decision-rationale messaging for BCBP Inspector and tap/click image enlargement.
+- Added a BCBP Inspector office-analysis concept image as the primary product visual while retaining the application screenshots in the detail gallery.
 - Replaced BCBP Inspector screenshots with the v0.2.7 interface and preserved their full aspect ratio.
 - Replaced the BCBP Inspector screenshots again with the revised v0.2.9 full-HD interface.
 - Replaced both BCBP Inspector screenshots with the latest rev4 images.
