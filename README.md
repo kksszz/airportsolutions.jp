@@ -10,6 +10,7 @@
 
 ## 2026-07-26 update
 
+- Added the CUSS self check-in airline-selection screen and a Home-page link to the Common-use Check-in product details.
 - Added four Common Use Platform screenshots covering airline selection, airline login, operational usage dashboard, backup status, and session history.
 - Added the common-use check-in system as the primary solution at the top of the Products page, describing a CUTE/CUPPS-equivalent environment covering hardware, software, airline connectivity, implementation, and operational support.
 - Replaced the CUSS text diagram with the approved three-kiosk image featuring matte-black enclosures, square screens, and an airline-selection interface.

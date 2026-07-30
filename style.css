@@ -582,6 +582,7 @@ h3 { color: var(--navy-900); margin-top: 10px; font-size: 1.16rem; letter-spacin
 .gallery figure { margin: 0; overflow: hidden; background: #fff; border: 1px solid var(--line); border-radius: 15px; box-shadow: var(--shadow-sm); }
 .gallery img { display: block; width: 100%; aspect-ratio: 16/9; object-fit: cover; object-position: left top; }
 .common-use-gallery img { object-fit: contain; background: #071d37; }
+.cuss-screen-gallery img { aspect-ratio: auto; object-fit: contain; background: #071d37; }
 .bcbp-gallery img { aspect-ratio: auto; object-fit: contain; background: #eef3f7; }
 .gallery figcaption { padding: 10px 13px; color: var(--muted); font-size: .8rem; }
 .product-image img,
