@@ -1,5 +1,12 @@
 # Airport Solutions.jp Website
 
+## 2026-08-01 update
+
+- Replaced the five Common Use Platform screenshots with the latest airline selection, airline login, application selection, daily-usage dashboard, hourly-usage, and session-history views.
+- Added Terminal Support to the Home and Products pages as the final product, covering centralized monitoring, live screens, software and file distribution, remote operations, time synchronization, alerts, and audit logs.
+- Added a photorealistic off-site remote-support concept image and the Terminal Management Console development screenshot; both support tap/click enlargement.
+- Updated the Home and News pages with the latest product announcement.
+
 ## 2026-07-28 update
 
 - Updated the CUSS product positioning for CUSS 1.5 support during the industry transition to CUSS 2.
