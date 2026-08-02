@@ -1,5 +1,12 @@
 # Airport Solutions.jp Website
 
+## 2026-08-03 update
+
+- Added CUSS application development as a capability alongside the CUSS platform offering.
+- Added two development screenshots: a dangerous-goods confirmation screen and a CUSS peripheral device test dashboard.
+- Clarified support for CUSS Technical Specification-compliant airline, operational, and device-integration applications.
+- Retained natural screenshot aspect ratios and tap/click enlargement.
+
 ## 2026-08-01 update
 
 - Replaced the five Common Use Platform screenshots with the latest airline selection, airline login, application selection, daily-usage dashboard, hourly-usage, and session-history views.

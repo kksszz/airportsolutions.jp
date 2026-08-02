@@ -584,6 +584,12 @@ h3 { color: var(--navy-900); margin-top: 10px; font-size: 1.16rem; letter-spacin
 .common-use-gallery img { aspect-ratio: auto; height: auto; object-fit: contain; background: #071d37; }
 .common-use-gallery figure:last-child:nth-child(odd) { grid-column: 1 / -1; max-width: 920px; width: 100%; justify-self: center; }
 .cuss-screen-gallery img { aspect-ratio: auto; object-fit: contain; background: #071d37; }
+.cuss-app-capability { margin-top: 34px; padding: clamp(28px, 4vw, 46px); border: 1px solid #cfe0ee; border-radius: var(--radius); background: linear-gradient(135deg, #f8fcff, #edf6fc); box-shadow: var(--shadow-sm); }
+.cuss-app-capability h2 { padding-left: 0; margin-bottom: 15px; }
+.cuss-app-capability h2::before { display: none; }
+.cuss-app-capability .section-label { margin-top: 18px; }
+.cuss-app-capability > div { max-width: 1040px; }
+.cuss-app-gallery img { aspect-ratio: auto; height: auto; object-fit: contain; background: #f5f7fb; }
 .bcbp-gallery img { aspect-ratio: auto; object-fit: contain; background: #eef3f7; }
 .terminal-support-gallery img { aspect-ratio: auto; object-fit: contain; background: #e7e6e2; }
 .gallery figcaption { padding: 10px 13px; color: var(--muted); font-size: .8rem; }
