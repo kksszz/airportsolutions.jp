@@ -590,6 +590,7 @@ h3 { color: var(--navy-900); margin-top: 10px; font-size: 1.16rem; letter-spacin
 .cuss-app-capability .section-label { margin-top: 18px; }
 .cuss-app-capability > div { max-width: 1040px; }
 .cuss-app-gallery img { aspect-ratio: auto; height: auto; object-fit: contain; background: #f5f7fb; }
+.cuss-management-gallery img { aspect-ratio: auto; height: auto; object-fit: contain; object-position: left top; background: #eaf1f6; }
 .bcbp-gallery img { aspect-ratio: auto; object-fit: contain; background: #eef3f7; }
 .terminal-support-gallery img { aspect-ratio: auto; object-fit: contain; background: #e7e6e2; }
 .gallery figcaption { padding: 10px 13px; color: var(--muted); font-size: .8rem; }
